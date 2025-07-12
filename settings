@@ -14,3 +14,4 @@ STTFastLanding == ON
 STTAntiban == ON
 STTSpeed == OFF
 STTWall == OFF
+STTUnlimited == Blacklist
