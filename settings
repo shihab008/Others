@@ -9,5 +9,3 @@ STTSniperScopeTrack == OFF
 STTSniperSwitch == ON
 STTSniperAim == ON
 STTSniperDelayFix == OFF
-STTChamsMenu == ON
-STTx64BitLocation == ON
