@@ -5,5 +5,7 @@ STTM82BLocation == ON
 STTM24Location == Blacklist
 STTAmmoLocation == Blacklist
 STTSniperScope == ON
-STTSniperScopeTrack == ON
+STTSniperScopeTrack == OFF
 STTSniperSwitch == ON
+STTSniperAim == ON
+STTSniperDelayFix == OFF
