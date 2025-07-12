@@ -6,3 +6,4 @@ STTM24Location == Blacklist
 STTAmmoLocation == Blacklist
 STTSniperScope == ON
 STTSniperScopeTrack == ON
+STTSniperSwitch == ON
