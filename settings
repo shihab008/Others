@@ -9,3 +9,8 @@ STTSniperScopeTrack == OFF
 STTSniperSwitch == ON
 STTSniperAim == ON
 STTSniperDelayFix == OFF
+STTCamera == ON
+STTFastLanding == ON
+STTAntiban == ON
+STTSpeed == OFF
+STTWall == OFF
