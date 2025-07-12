@@ -4,3 +4,4 @@ AWM-YLocation == Blacklist
 STTM82BLocation == ON
 STTM24Location == Blacklist
 STTAmmoLocation == Blacklist
+STTSniperScope == ON
