@@ -1,1 +1,22 @@
-
+AimbotHead == ON
+AimbotLegit == ON
+AWM-YLocation == Blacklist
+STTM82BLocation == ON
+STTM24Location == Blacklist
+STTAmmoLocation == Blacklist
+STTSniperScope == ON
+STTSniperScopeTrack == OFF
+STTSniperSwitch == ON
+STTSniperAim == ON
+STTSniperDelayFix == OFF
+STTCamera == ON
+STTFastLanding == ON
+STTAntiban == ON
+STTSpeed == OFF
+STTWall == OFF
+STTUnlimited == Blacklist
+SSTBody == ON
+STTFakeDamge == ON
+STT2xScope ==
+STT4xScope ==
+STTGlitch == ON
