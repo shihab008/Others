@@ -1,0 +1,4 @@
+AimbotHead == ON
+AimbotLegit == OFF
+AWM-YLocation == Blacklist
+STTM82BLocation == ON
