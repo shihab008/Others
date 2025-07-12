@@ -15,3 +15,8 @@ STTAntiban == ON
 STTSpeed == OFF
 STTWall == OFF
 STTUnlimited == Blacklist
+SSTBody == ON
+STTFakeDamge == ON
+STT2xScope ==
+STT4xScope ==
+STTGlitch == ON
