@@ -17,6 +17,6 @@ STTWall == OFF
 STTUnlimited == Blacklist
 SSTBody == ON
 STTFakeDamge == ON
-STT2xScope ==
-STT4xScope ==
+STT2xScope ==ON
+STT4xScope ==ON
 STTGlitch == ON
